@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows\Quotio.Services.deps.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows\Quotio.Services.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows\Quotio.Core.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows\Quotio.Core.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.AssemblyInfo.cs
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.sourcelink.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.S.6D47C179.Up2Date
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\refint\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\Quotio.Services.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows\ref\Quotio.Services.dll

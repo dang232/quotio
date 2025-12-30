@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows10.0.19041.0\Quotio.Services.deps.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows10.0.19041.0\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows10.0.19041.0\Quotio.Services.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows10.0.19041.0\Quotio.Core.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\bin\Debug\net8.0-windows10.0.19041.0\Quotio.Core.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.AssemblyInfo.cs
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.sourcelink.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.S.6D47C179.Up2Date
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\refint\Quotio.Services.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\Quotio.Services.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Services\obj\Debug\net8.0-windows10.0.19041.0\ref\Quotio.Services.dll

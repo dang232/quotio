@@ -1,0 +1,51 @@
+<UserControl x:Class="Quotio.App.Views.Screens.AgentsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <TextBlock Text="🤖" FontSize="28" VerticalAlignment="Center" Margin="0,0,12,0"/>
+            <TextBlock Text="Installed Agents" FontSize="24" FontWeight="Bold" VerticalAlignment="Center"/>
+            <Button Command="{Binding LoadAgentsCommand}" Content="🔄 Scan Again" Margin="20,0,0,0" Padding="10,5"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding Agents}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="White" BorderBrush="#E0E0E0" BorderThickness="1" CornerRadius="8" Padding="16" Margin="0,0,0,10">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="16"/>
+                                    <TextBlock Text="{Binding ExecutablePath}" Foreground="#666" FontSize="12" Margin="0,4,0,0" TextTrimming="CharacterEllipsis"/>
+                                    <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                                        <TextBlock Text="Status: " FontSize="12"/>
+                                        <TextBlock Text="{Binding IsConfigured, Converter={StaticResource BoolToStartStopTextConverter}}" FontWeight="Bold" Foreground="#673AB7" FontSize="12"/>
+                                    </StackPanel>
+                                </StackPanel>
+                                <Button Grid.Column="1" Command="{Binding DataContext.ConfigureAgentCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}" 
+                                        CommandParameter="{Binding}"
+                                        Content="Configure" Padding="15,8" VerticalAlignment="Center"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+        
+        <TextBlock Grid.Row="1" Text="No agents detected." FontSize="16" Foreground="#888" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0"
+                   Visibility="{Binding Agents.Count, Converter={StaticResource BoolToVisibilityConverter}, ConverterParameter=Inverted}"/>
+    </Grid>
+</UserControl>

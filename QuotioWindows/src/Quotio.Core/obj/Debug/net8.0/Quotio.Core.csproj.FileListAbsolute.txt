@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\bin\Debug\net8.0\Quotio.Core.deps.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\bin\Debug\net8.0\Quotio.Core.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\bin\Debug\net8.0\Quotio.Core.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.sourcelink.json
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\refint\Quotio.Core.dll
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\Quotio.Core.pdb
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.Core\obj\Debug\net8.0\ref\Quotio.Core.dll

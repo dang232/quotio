@@ -1,0 +1,6 @@
+﻿  Determining projects to restore...
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.App\Quotio.App.csproj : error NU1605: Warning As Error: Detected package downgrade: Microsoft.Extensions.DependencyInjection from 10.0.1 to 8.0.0. Reference the package directly from the project to select a different version. 
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.App\Quotio.App.csproj : error NU1605:  Quotio.App -> Microsoft.Extensions.Hosting 10.0.1 -> Microsoft.Extensions.DependencyInjection (>= 10.0.1) 
+C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.App\Quotio.App.csproj : error NU1605:  Quotio.App -> Microsoft.Extensions.DependencyInjection (>= 8.0.0)
+  Failed to restore C:\Users\Admin\Documents\quotio\QuotioWindows\src\Quotio.App\Quotio.App.csproj (in 485 ms).
+  2 of 3 projects are up-to-date for restore.

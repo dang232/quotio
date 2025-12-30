@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A7A91086-781B-4101-B554-1D38A82B8B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotio.App", "src\Quotio.App\Quotio.App.csproj", "{DA220887-BB82-49D7-A20D-507F2243B90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotio.Core", "src\Quotio.Core\Quotio.Core.csproj", "{84DD35CF-5711-42FB-8217-977B21BCC39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotio.Services", "src\Quotio.Services\Quotio.Services.csproj", "{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{398E157F-CA2A-42CE-A852-883C685D12A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotio.Tests", "tests\Quotio.Tests\Quotio.Tests.csproj", "{27C34B11-54E9-4010-B8E7-BD397C1BEEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotio.Tests", "src\Quotio.Tests\Quotio.Tests.csproj", "{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA220887-BB82-49D7-A20D-507F2243B90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA220887-BB82-49D7-A20D-507F2243B90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA220887-BB82-49D7-A20D-507F2243B90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA220887-BB82-49D7-A20D-507F2243B90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DD35CF-5711-42FB-8217-977B21BCC39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DD35CF-5711-42FB-8217-977B21BCC39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DD35CF-5711-42FB-8217-977B21BCC39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DD35CF-5711-42FB-8217-977B21BCC39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C34B11-54E9-4010-B8E7-BD397C1BEEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C34B11-54E9-4010-B8E7-BD397C1BEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C34B11-54E9-4010-B8E7-BD397C1BEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C34B11-54E9-4010-B8E7-BD397C1BEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA220887-BB82-49D7-A20D-507F2243B90F} = {A7A91086-781B-4101-B554-1D38A82B8B18}
+		{84DD35CF-5711-42FB-8217-977B21BCC39D} = {A7A91086-781B-4101-B554-1D38A82B8B18}
+		{1F5D8AF2-BC6B-42AD-B37C-E9C6FA721CD4} = {A7A91086-781B-4101-B554-1D38A82B8B18}
+		{27C34B11-54E9-4010-B8E7-BD397C1BEEAD} = {398E157F-CA2A-42CE-A852-883C685D12A9}
+		{4500B1D9-D2FC-4F4F-8C00-B96FA6E514FF} = {A7A91086-781B-4101-B554-1D38A82B8B18}
+	EndGlobalSection
+EndGlobal

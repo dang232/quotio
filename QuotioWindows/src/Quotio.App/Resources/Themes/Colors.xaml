@@ -1,0 +1,37 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Status Colors -->
+    <Color x:Key="StatusGreenColor">#4CAF50</Color>
+    <SolidColorBrush x:Key="StatusGreenBrush" Color="{StaticResource StatusGreenColor}" />
+    
+    <Color x:Key="StatusRedColor">#F44336</Color>
+    <SolidColorBrush x:Key="StatusRedBrush" Color="{StaticResource StatusRedColor}" />
+    
+    <Color x:Key="StatusOrangeColor">#FF9800</Color>
+    <SolidColorBrush x:Key="StatusOrangeBrush" Color="{StaticResource StatusOrangeColor}" />
+    
+    <!-- Provider Colors -->
+    <Color x:Key="GeminiColor">#4285F4</Color>
+    <SolidColorBrush x:Key="GeminiBrush" Color="{StaticResource GeminiColor}" />
+    
+    <Color x:Key="ClaudeColor">#D97757</Color>
+    <SolidColorBrush x:Key="ClaudeBrush" Color="{StaticResource ClaudeColor}" />
+    
+    <Color x:Key="OpenAIColor">#10A37F</Color>
+    <SolidColorBrush x:Key="OpenAIBrush" Color="{StaticResource OpenAIColor}" />
+    
+    <Color x:Key="CopilotColor">#24292E</Color>
+    <SolidColorBrush x:Key="CopilotBrush" Color="{StaticResource CopilotColor}" />
+
+    <!-- Quota Levels -->
+    <Color x:Key="QuotaHighColor">#4CAF50</Color>
+    <SolidColorBrush x:Key="QuotaHighBrush" Color="{StaticResource QuotaHighColor}" />
+    
+    <Color x:Key="QuotaMediumColor">#FFC107</Color>
+    <SolidColorBrush x:Key="QuotaMediumBrush" Color="{StaticResource QuotaMediumColor}" />
+    
+    <Color x:Key="QuotaLowColor">#EF5350</Color>
+    <SolidColorBrush x:Key="QuotaLowBrush" Color="{StaticResource QuotaLowColor}" />
+
+</ResourceDictionary>
